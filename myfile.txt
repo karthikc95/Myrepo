@@ -1,4 +1,6 @@
 Hi my name is karthik
 i am developer
+i am a software engineer
+i have completed by BE in 2017
 
 i am doing Employee database management project
